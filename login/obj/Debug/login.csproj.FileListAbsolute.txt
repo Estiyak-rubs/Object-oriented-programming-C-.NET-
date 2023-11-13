@@ -1,0 +1,10 @@
+C:\University\Semester 6\oop2\projrct\day1\login\bin\Debug\login.exe.config
+C:\University\Semester 6\oop2\projrct\day1\login\bin\Debug\login.exe
+C:\University\Semester 6\oop2\projrct\day1\login\bin\Debug\login.pdb
+C:\University\Semester 6\oop2\projrct\day1\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\University\Semester 6\oop2\projrct\day1\login\obj\Debug\login.Form1.resources
+C:\University\Semester 6\oop2\projrct\day1\login\obj\Debug\login.Properties.Resources.resources
+C:\University\Semester 6\oop2\projrct\day1\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\University\Semester 6\oop2\projrct\day1\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\University\Semester 6\oop2\projrct\day1\login\obj\Debug\login.exe
+C:\University\Semester 6\oop2\projrct\day1\login\obj\Debug\login.pdb
